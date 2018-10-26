@@ -1,0 +1,15 @@
+{
+  "name": "terminal",
+  "description": "hacking on xterm",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/coetry/terminal.git"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "xterm": "^3.8.0"
+  },
+  "devDependencies": {},
+  "author": "Allen Hai <allenhai03@gmail.com> (https://allenhai.now.sh)"
+}
